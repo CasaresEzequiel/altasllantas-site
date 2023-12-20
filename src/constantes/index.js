@@ -52,22 +52,22 @@ export const estadisticas = [
 export const productos = [
   {
     imgURL: shoe4,
-    nombre: 'Nike Air Jordan-01',
+    nombre: 'Mike Air Jordan-01',
     price: '$200.20',
   },
   {
     imgURL: shoe5,
-    nombre: 'Nike Air Jordan-10',
-    price: '$210.20',
+    nombre: 'Mike Air Jordan-10',
+    price: '$199.999',
   },
   {
     imgURL: shoe6,
-    nombre: 'Nike Air Jordan-100',
-    price: '$220.20',
+    nombre: 'Mike Air Jordan-100',
+    price: '$87.999',
   },
   {
     imgURL: shoe7,
-    nombre: 'Nike Air Jordan-001',
+    nombre: 'Mike Air Jordan-001',
     price: '$230.20',
   },
 ];
