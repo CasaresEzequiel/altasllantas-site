@@ -72,22 +72,23 @@ export const productos = [
   },
 ];
 
-export const services = [
+export const servicios = [
   {
     imgURL: truckFast,
-    label: 'Free shipping',
-    subtext: 'Enjoy seamless shopping with our complimentary shipping service.',
+    label: 'Envío gratis',
+    subtext: 'En compras de 3 pares de zapatillas o mas.',
   },
   {
     imgURL: shieldTick,
-    label: 'Secure Payment',
+    label: 'Pagos seguros',
     subtext:
-      'Experience worry-free transactions with our secure payment options.',
+      'Total seguridad en tus transacciones con nuestros variados sistemas de pagos.',
   },
   {
     imgURL: support,
-    label: 'Love to help you',
-    subtext: 'Our dedicated team is here to assist you every step of the way.',
+    label: 'Atención al cliente',
+    subtext:
+      'Ante cualquier inconveniente nuestro equipo está listo para asistirte.',
   },
 ];
 

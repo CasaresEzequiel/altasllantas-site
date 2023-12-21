@@ -14,8 +14,8 @@ const SuperQuality = () => {
           <span className="text-emerald-500 inline-block mt-3">Zapatillas</span>
         </h2>
         <p className="mt-4 lg:max-w-lg info-text">
-          No importa el momento del día ni la ocasión. El calzado ideal para
-          acompañarte en cualquier situación.
+          No importa el momento del día ni la situación. El calzado ideal para
+          acompañarte en cualquier ocasión.
         </p>
         <div className="mt-11">
           <Boton label="Detalles" />
