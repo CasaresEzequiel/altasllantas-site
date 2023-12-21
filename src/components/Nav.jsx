@@ -11,11 +11,7 @@ const Nav = () => {
         <a href="/">
           <img src={mikeLogo} alt="Logo" width={130} height={29} />
         </a>
-        <ul
-          className={`flex-1 flex justify-center items-center gap-16 max-lg:hidden ${
-            isOpen ? 'block' : 'hidden'
-          }`}
-        >
+        <ul className="flex-1 flex justify-center items-center gap-16 max-lg:hidden">
           {/*{`w-full block flex-grow lg:flex lg:items-center lg:w-auto ${isOpen ? "block" : "hidden"}`}*/}
           {navLinks.map((link) => (
             <li key={link.label}>

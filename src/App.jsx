@@ -1,9 +1,7 @@
 import {
   Hero,
   Footer,
-  Ofertas,
   Populares,
-  Reviews,
   Servicios,
   Subscribe,
   SuperQuality,
@@ -24,16 +22,10 @@ const App = () => (
     <section className="padding-x py-10">
       <Servicios />
     </section>
-    <section className="padding">
-      <Ofertas />
-    </section>
-    <section className="bg-pale-blue padding ">
-      <Reviews />
-    </section>
     <section className="padding-x sm:py-32 py-16 w-full">
       <Subscribe />
     </section>
-    <section className="bg-black padding-x padding-t pb-8">
+    <section className="bg-slate-200 padding-x pt-8 pb-8">
       <Footer />
     </section>
   </main>
