@@ -31,7 +31,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="flex justify-between text-black mt-24 max-sm:flex-col max-sm:items-center">
-        <div className="flex flex-1 justify-start items-center gap-2 font-montserrat cursor-pointer">
+        <div className="flex flex-1 justify-start items-center gap-2 font-montserrat cursor-pointer max-sm:text-sm">
           {new Date().getFullYear()} &copy; Todos los derechos reservados
         </div>
         <div className="font-montserrat">
